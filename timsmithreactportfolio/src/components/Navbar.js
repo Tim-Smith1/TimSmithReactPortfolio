@@ -1,37 +1,55 @@
 import React from 'react';
 
-
- function Navbar() {
-    return (
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="#">Tim Smith</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">About</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link active" href="https://github.com/Tim-Smith1">Github</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Portfolio</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Contact</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Resume</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-           );
-
+function Navbar({ currentPage, handlePageChange }) {
+  return (
+    <ul className="nav nav-tabs">
+      <li className="nav-item">
+        <a
+          href="#Tim Smith"
+          onClick={() => handlePageChange('About')}
+          className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
+        >
+          Tim Smith
+        </a>
+      </li>
+      <li className="nav-item">
+        <a
+          href="#about"
+          onClick={() => handlePageChange('About')}
+          className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
+        >
+          About
+        </a>
+      </li>
+      <li className="nav-item">
+        <a
+          href="#project"
+          onClick={() => handlePageChange('Project')}
+          className={currentPage === 'Project' ? 'nav-link active' : 'nav-link'}
+        >
+          Projects
+        </a>
+      </li>
+      <li className="nav-item">
+        <a
+          href="#contact"
+          onClick={() => handlePageChange('Contact')}
+          className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+        >
+          Contact
+        </a>
+      </li>
+      <li className="nav-item">
+        <a
+          href="#resume"
+          onClick={() => handlePageChange('Resume')}
+          className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
+        >
+          Resume
+        </a>
+      </li>
+    </ul>
+  );
 }
 
 export default Navbar;

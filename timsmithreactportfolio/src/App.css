@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.form-label {
+  display: flex;
+  padding: 20px;
+}
+
+.form-control {
+  padding: 20px;
+  margin-left: 10px;
+  margin-right: 50px;
+  max-width: 500px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: blue;
+  color: black;
+  text-align: center;
+}

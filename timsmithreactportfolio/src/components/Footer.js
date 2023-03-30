@@ -4,8 +4,13 @@ import React from 'react';
 
 function Footer() {
     return (
-        <h1>Footer</h1>
-    )   
+        <div className="footer">
+            <footer>
+                <p>Author: Tim Smith</p>
+                <a href="https://github.com/Tim-Smith1">Github</a>
+            </footer>
+        </div>  
+    )
 };
 
 export default Footer;
