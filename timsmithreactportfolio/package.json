@@ -1,5 +1,6 @@
 {
   "name": "timsmithreactportfolio",
+  "homepage": "git@github.com:Tim-Smith1/TimSmithReactPortfolio.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
