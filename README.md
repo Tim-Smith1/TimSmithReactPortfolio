@@ -20,7 +20,11 @@
 ---
 ## About
    This Portfolio is going to be a ongoing project to help me better understand React, javascript and HTML/CSS.
-  
+  ![Screen Shot 2023-03-30 at 8 37 04 PM](https://user-images.githubusercontent.com/122688372/229001038-0a33bc6c-c592-4bdb-94ca-adbdfa4ee7d8.png)
+![Screen Shot 2023-03-30 at 8 37 27 PM](https://user-images.githubusercontent.com/122688372/229001047-ac44ee40-aa8d-4464-9bf2-0cc1cf7445c3.png)
+![Screen Shot 2023-03-30 at 8 37 38 PM](https://user-images.githubusercontent.com/122688372/229001053-13d53618-9823-4981-b161-58e4d0492023.png)
+![Screen Shot 2023-03-30 at 8 37 50 PM](https://user-images.githubusercontent.com/122688372/229001055-3d12d4b9-7a7f-443d-946d-b085670c8b3f.png)
+
 
 ---
 ## Installation:
