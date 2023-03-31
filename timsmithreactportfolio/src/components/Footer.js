@@ -6,7 +6,7 @@ function Footer() {
     return (
         <div className="footer">
             <footer>
-                <p>Author: Tim Smith</p>
+                
                 <a href="https://github.com/Tim-Smith1">Github</a>
             </footer>
         </div>  
