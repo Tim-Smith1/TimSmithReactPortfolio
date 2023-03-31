@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TimSmithReactPortfolio/static/css/main.9a05968c.css",
+    "main.js": "/TimSmithReactPortfolio/static/js/main.81a6b607.js",
+    "static/js/787.9afa2006.chunk.js": "/TimSmithReactPortfolio/static/js/787.9afa2006.chunk.js",
+    "static/media/CANJAM.png": "/TimSmithReactPortfolio/static/media/CANJAM.d1a8294d93f74756f162.png",
+    "static/media/TimSmith.png": "/TimSmithReactPortfolio/static/media/TimSmith.f2ffdd2175fee8943613.png",
+    "static/media/petfinder.png": "/TimSmithReactPortfolio/static/media/petfinder.bb07701b7e88be9100dc.png",
+    "static/media/textedit.png": "/TimSmithReactPortfolio/static/media/textedit.3bd14aa8d841ebd9ae6f.png",
+    "static/media/socialmediabackend.png": "/TimSmithReactPortfolio/static/media/socialmediabackend.46cfd009537af984261f.png",
+    "static/media/placeholderresume.png": "/TimSmithReactPortfolio/static/media/placeholderresume.d55dcd7ba510318f62d3.png",
+    "static/media/WeatherApp.png": "/TimSmithReactPortfolio/static/media/WeatherApp.5033a0c6ea37bd0511a8.png",
+    "static/media/background2.avif": "/TimSmithReactPortfolio/static/media/background2.8d30d7acb0790b575cf0.avif",
+    "static/media/logo.svg": "/TimSmithReactPortfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TimSmithReactPortfolio/index.html",
+    "main.9a05968c.css.map": "/TimSmithReactPortfolio/static/css/main.9a05968c.css.map",
+    "main.81a6b607.js.map": "/TimSmithReactPortfolio/static/js/main.81a6b607.js.map",
+    "787.9afa2006.chunk.js.map": "/TimSmithReactPortfolio/static/js/787.9afa2006.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a05968c.css",
+    "static/js/main.81a6b607.js"
+  ]
+}
