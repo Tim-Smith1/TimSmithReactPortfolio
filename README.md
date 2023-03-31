@@ -36,7 +36,7 @@
 ---
 ## Usage
 
-I want to create a simple text editor that would retain what was written on it.
+This is a React portfolio that I'll use to display new projects that I'm working on.
 
 ---
 ## License
